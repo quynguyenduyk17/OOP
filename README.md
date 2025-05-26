@@ -89,7 +89,7 @@ MySQL 5.7+
 IDE khuyến nghị: Eclipse / IntelliJ IDEA
 🎓 Đồ án môn học
 Môn học: Lập trình Hướng Đối Tượng với Java
-Dạng bài: Dự án nhóm (Group Project)
+Dạng bài: Dự án nhóm 
 Chủ đề: Marketplace Transactional 
 📁 Tác giả & đóng góp
 Nhóm thực hiện: [Nguyễn Duy Quý]
